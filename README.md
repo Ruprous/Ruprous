@@ -7,7 +7,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ruprous&theme=darkhub)   
 ![Programming Languages](https://skillicons.dev/icons?i=ps,ai,pr,xd,ae,figma,blender,python,java,cpp,github,html,css,js)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruprous&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruprous&show_icons=true&theme=transparent)
 
 
 
