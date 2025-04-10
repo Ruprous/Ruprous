@@ -19,7 +19,7 @@
 ---
 
 ## 💻 使用スキル・ツール  
-![Skills](https://skillicons.dev/icons?i=github,ps,ai,pr,xd,ae,figma,blender,python,java,cpp,github,html,css,js,vscode,mysql,docker,windows)
+![Skills](https://skillicons.dev/icons?i=github,ps,ai,pr,xd,ae,figma,blender,processing,python,java,cpp,github,html,css,js,vscode,mysql,docker,windows)
 
 ---
 
