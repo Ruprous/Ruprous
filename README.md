@@ -1,7 +1,7 @@
 # どうも、Ruprous（ラプラス）です 👋  
 > え？読めないって？ 読むんだよ   
 
-![Visitor Count](https://count.getloli.com/get/@:Ruprous?theme=rule34)
+![Visitor Count](https://count.getloli.com/get/@:Ruprous)
 
 🎬 グラフィックデザイナー / 映像クリエイター  
 🖥️ 映像制作・デザイン・プログラミング、いろいろかじってます。ｵｲｼｲﾈ。
