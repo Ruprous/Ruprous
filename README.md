@@ -24,4 +24,4 @@
 ---
 
 ## 📊 使用言語比率  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruprous&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruprous&layout=compact&theme=tokyonight&langs_count=5)
