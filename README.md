@@ -14,7 +14,7 @@
 ---
 
 ## 🏆 GitHub 活動記録  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ruprous&rank=SSS,SS,S,AAA,AA,A,SECRETB&column=7&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ruprous&rank=SSS,SS,S,AAA,AA,A,SECRET&column=7&theme=onedark)
 
 ---
 
