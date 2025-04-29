@@ -3,7 +3,7 @@
 
 ![Visitor Count](https://count.getloli.com/get/@:Ruprous)
 
-🎬 Graphic Designer / Video Creator
+🎬 Graphic Designer / Video Creator   
 🖥️ I dabble in video production, design, and programming — all tasty bites!
 
 ---
