@@ -8,11 +8,6 @@
 
 ---
 
-## 🎨 Portfolio
-[📷 Foriio](https://www.foriio.com/ruprous)   
-[🌱 Behance](https://www.behance.net/Ruprous)   
-
----
 
 ## 🏆 Trophies / Stats
 <p align="left">
@@ -33,5 +28,11 @@
 
 ## 💻 Skills / Tools
 ![Skills](https://skillicons.dev/icons?i=github,ps,ai,pr,xd,ae,figma,blender,processing,python,java,cpp,html,css,js,vscode,mysql,docker,windows)
+
+---
+
+## 🎨 Portfolio
+[📷 Foriio](https://www.foriio.com/ruprous)   
+[🌱 Behance](https://www.behance.net/Ruprous)   
 
 ---
