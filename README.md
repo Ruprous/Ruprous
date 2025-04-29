@@ -32,6 +32,7 @@
 ---
 
 ## 🎨 Portfolio
-[📷 Foriio](https://www.foriio.com/ruprous)   
-[🌱 Behance](https://www.behance.net/Ruprous)   
+<a href="https://www.foriio.com/ruprous" target="_blank" rel="noopener noreferrer">📷 Foriio</a>  
+<a href="https://www.behance.net/Ruprous" target="_blank" rel="noopener noreferrer">🌱 Behance</a>
+
 
