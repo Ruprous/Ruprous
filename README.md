@@ -26,32 +26,20 @@
 
 ---
 
-## 🎨 Design / Video / 3D
-
+## 🎨 Design / Video / 3D   
 [![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,xd,ae,figma,blender)](https://skillicons.dev)
 
----
-
-## 💻 Programming Languages
-
+## 💻 Programming Languages   
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,js,processing)](https://skillicons.dev)
 
----
-
-## 🧰 Development Tools
-
+## 🧰 Development Tools   
 [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
----
 
-## 🐳 Infrastructure / Database / OS
-
+## 🐳 Infrastructure / Database / OS   
 [![My Skills](https://skillicons.dev/icons?i=mysql,docker,windows)](https://skillicons.dev)
 
----
-
-## 🧠 Currently Learning
-
+## 🧠 Currently Learning   
 [![My Skills](https://skillicons.dev/icons?i=nodejs,react,kubernetes)](https://skillicons.dev)
 
 ---
