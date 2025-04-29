@@ -9,8 +9,8 @@
 ---
 
 ## 🎨 Portfolio
-[📷 Foriio](https://www.foriio.com/ruprous)
-[🌱 Behance](https://www.behance.net/Ruprous)
+[📷 Foriio](https://www.foriio.com/ruprous)   
+[🌱 Behance](https://www.behance.net/Ruprous)   
 
 ---
 
