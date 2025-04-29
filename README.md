@@ -31,7 +31,7 @@
     <img height="150.2em" alt="Ruprous's GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=Ruprous&theme=tokyonight&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150.2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruprous135&layout=compact&theme=tokyonight" />
+    <img height="150.2em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruprous&layout=compact&theme=tokyonight" />
   </a>
 </p>
 <p>
