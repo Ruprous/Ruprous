@@ -28,25 +28,36 @@
 
 ## 🎨 Design / Video / 3D
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,pr,xd,ae,figma,blender)](https://skillicons.dev)
-
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,xd,ae,figma,blender" width="400"/>
+  </a>
+</p>
 
 ## 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,html,css,js,processing)](https://skillicons.dev)
-
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,processing" width="400"/>
+  </a>
+</p>
 
 ## 🧰 Development Tools
 
-[![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
-
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode" width="300"/>
+  </a>
+</p>
 
 ## 🐳 Infrastructure / Database / OS
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,docker,windows)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,docker,windows" width="300"/>
+  </a>
+</p>
+
 
 ---
 
