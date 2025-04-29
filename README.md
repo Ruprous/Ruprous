@@ -50,6 +50,12 @@
 
 ---
 
+## 🧠 Currently Learning
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,kubernetes)](https://skillicons.dev)
+
+---
+
 ## 🎨 Portfolio
 <a href="https://www.foriio.com/ruprous" target="_blank" rel="noopener noreferrer">📷 Foriio</a>  
 <a href="https://www.behance.net/Ruprous" target="_blank" rel="noopener noreferrer">🌱 Behance</a>
