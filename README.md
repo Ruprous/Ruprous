@@ -13,7 +13,7 @@
 <p align="left">
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img height="100.2em" alt="Ruprous" src="https://github-profile-trophy.vercel.app/?username=Ruprous&rank=SSS,SS,S,AAA,AA,A,B,SECRET&column=10&theme=gruvbox" />
+      <img height="100.2em" alt="Ruprous" src="https://github-profile-trophy.vercel.app/?username=Ruprous&rank=SSS,SS,S,AAA,AA,A,B,SECRET&column=10&theme=juicyfresh" />
     </a>
   </p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
