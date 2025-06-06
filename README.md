@@ -28,6 +28,6 @@
 
 ## 🎨 Portfolio
 <a href="https://www.foriio.com/ruprous" target="_blank" rel="noopener noreferrer">📷 Foriio</a>  
-<a href="https://www.behance.net/Ruprous" target="_blank" rel="noopener noreferrer">🌱 Behance</a>
-<a href="https://ruprous.github.io/summer-clouds" target="_blank" rel="noopener noreferrer">🌱 GithubPages</a>
+<a href="https://www.behance.net/Ruprous" target="_blank" rel="noopener noreferrer">🌱 Behance</a>   
+<a href="https://ruprous.github.io/summer-clouds" target="_blank" rel="noopener noreferrer">PortFolio Site(Now Making)</a>
 
